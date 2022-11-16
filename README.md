@@ -21,3 +21,7 @@ changed in the cipher text. Repeat this for the provided 10 plaintext inputs; th
 3 and comment on your findings.
 
 ![image](https://user-images.githubusercontent.com/104933413/202142593-9fdaad57-9c98-4f52-8919-d0b19a35ff82.png)
+
+The code for the implementation and study of avalanche effect is included in this project, besides, you access the following document to review all the project, plus, accessing to the enhanced algorithm:
+
+https://drive.google.com/file/d/1MOK7TJlnf65Z-OYTms5puuL5xIxUR_tI/view?usp=sharing
