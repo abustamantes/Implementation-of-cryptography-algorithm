@@ -3,7 +3,7 @@ import numpy as np
 
 #We are working with decimal functions, so the first thing you have to make sure of is to convert binary to decimals
 
-a=np.array([[15,4,6,6],
+AI=np.array([[15,4,6,6],
     [2,9,12,2],
     [5,12,14,2],
     [9,12,2,7],
@@ -15,7 +15,7 @@ a=np.array([[15,4,6,6],
     [12,2,7,4]])
 
 
-b=np.array([[10,2,15,10],
+AII=np.array([[10,2,15,10],
      [14,0,1,8]]) 
 
 def sbox1(s1):
@@ -54,6 +54,6 @@ def binaryct(Ep):
         rb.append(j)
   return np.array(rb)[:].reshape(len(Ep),len(Ep[0]))
 
-print(ciphertext(a,b))
+print(ciphertext(AI,AII))
 print("\n")
-print(binaryct(ciphertext(a,b)))
+print(binaryct(ciphertext(AI,AII)))
