@@ -8,7 +8,7 @@ Implement the following 16 bit cipher:
 
 ![image](https://user-images.githubusercontent.com/104933413/202142345-4512be3f-380a-47b0-892c-fb8543a4aa5f.png)
 
-Tasks that this project implements and study:
+Tasks that this project implements and studies:
 
 1. Draw a chart showing the relation between P, C, and K according to this cipher. 
 2. Implement the above cipher and calculate the cipher text for the plaintext provided in 
