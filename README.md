@@ -24,4 +24,4 @@ changed in the cipher text. Repeat this for the provided 10 plaintext inputs; th
 
 The code for the implementation and study of avalanche effect is included in this project, besides, you can access the following document to review all the project, plus, accessing to the enhanced algorithm:
 
-https://drive.google.com/file/d/1MOK7TJlnf65Z-OYTms5puuL5xIxUR_tI/view?usp=sharing
+https://drive.google.com/file/d/1IeIOzC08OosjB2JPghvS1KVNYlmQAuGJ/view?usp=sharing
