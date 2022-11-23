@@ -22,6 +22,6 @@ changed in the cipher text. Repeat this for the provided 10 plaintext inputs; th
 
 ![image](https://user-images.githubusercontent.com/104933413/202142593-9fdaad57-9c98-4f52-8919-d0b19a35ff82.png)
 
-The code for the implementation and study of avalanche effect is included in this project, besides, you can access the following document to review all the project, plus, accessing to the enhanced algorithm:
+The code for the implementation and study of avalanche effect is included in this project, as well as the enhancement, you can access the following document to review all the project:
 
 https://drive.google.com/file/d/1IeIOzC08OosjB2JPghvS1KVNYlmQAuGJ/view?usp=sharing
